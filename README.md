@@ -28,28 +28,25 @@ After cloning this repository, follow these steps. Google Drive link below  is m
 After completing the setup, your repository's folder structure should look similar to this:
 
 yolov7/
-│
-├─ UI-element-Detect-6/
-│ │ ├── ...
-│ │ └── ...
-│ └── ...
-│
+├── UI-element-Detect-6/
+│   ├── ...
+│   └── ...
 ├── runs/
-│ ├── detect/
-│ │ ├── exp2/
-│ │ │ ├── ...
-│ │ │ └── ...
-│ │ └── exp/
-│ │ ├── ...
-│ │ └── ...
-│ └── train/
-│ └── exp/
-│ └── weights/
-│ └── best.pt
-│
+│   ├── detect/
+│   │   ├── exp2/
+│   │   │   ├── ...
+│   │   │   └── ...
+│   │   └── exp/
+│   │       ├── ...
+│   │       └── ...
+│   └── train/
+│       └── exp/
+│           └── weights/
+│               └── best.pt
 ├── yolov7_training.pt
 ├── Training_YOLOv7_on_UI_Element_detection_Dataset.ipynb
 └── README.md
+
 
 ## Google Drive Folder Link
 
