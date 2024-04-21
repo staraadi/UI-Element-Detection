@@ -4,7 +4,7 @@ This repository contains everything required for UI element detection using YOLO
 
 ## Cloning Instructions
 
-After cloning this repository, follow these steps. Google Drive link below  is mentioned below-:
+After cloning this repository, follow these steps. Google Drive link is mentioned below-:
 
 1. **Move Dataset**: 
    - Download the dataset from the provided link.
