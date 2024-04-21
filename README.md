@@ -14,10 +14,10 @@ After cloning this repository, follow these steps. Google Drive link is mentione
 2. **Download and Move Trained Weights**:
    - Download the trained weights from the provided Google Drive link.
    - Move the downloaded weights file to the cloned repository, maintaining the same directory structure as in the public drive link.
-   - (Note) The weights of the trained model are after 2 epochs with a batch size of 16 which are available at `runs/train/exp/weights/best.pt` in the drive link. It's recommended to         train the model for at least 20 epochs for better performance, but it wasn't trained beyond 2 epochs due to limited resources.
+   - (Note) The weights of the trained model are after 2 epochs with a batch size of 16 which is available at `runs/train/exp/weights/best.pt` in the drive link. It's recommended to train the model for at least 20 epochs for better performance, but it wasn't trained beyond 2 epochs due to limited resources.
 
 3. **Clone COCO Starting Checkpoint**:
-   - Clone the COCO starting checkpoint into the cloned repository. You can download it [here](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7_training.pt).
+   - Clone the COCO starting checkpoint into the current cloned repository. You can download it [here](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7_training.pt).
 
 4. **Set Up Environment**: Set up the necessary environment and dependencies by installing requirement.txt.
 
