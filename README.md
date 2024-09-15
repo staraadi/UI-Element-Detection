@@ -25,25 +25,55 @@ After cloning this repository, follow these steps. Google Drive link is mentione
 
 ## Folder Structure
 
-yolov7/
-├── UI-element-Detect-6/
-│   ├── ...
-│   └── ...
-├── runs/
-│   ├── detect/
-│   │   ├── exp2/
-│   │   │   ├── ...
-│   │   │   └── ...
-│   │   └── exp/
-│   │       ├── ...
-│   │       └── ...
-│   └── train/
-│       └── exp/
-│           └── weights/
-│               └── best.pt
-├── yolov7_training.pt
-├── Training_YOLOv7_on_UI_Element_detection_Dataset.ipynb
-└── README.md
+# Folder Structure
+<ul>
+  <li>yolov7/
+    <ul>
+      <li>UI-element-Detect-6/
+        <ul>
+          <li>...</li>
+          <li>...</li>
+        </ul>
+      </li>
+      <li>runs/
+        <ul>
+          <li>detect/
+            <ul>
+              <li>exp2/
+                <ul>
+                  <li>...</li>
+                  <li>...</li>
+                </ul>
+              </li>
+              <li>exp/
+                <ul>
+                  <li>...</li>
+                  <li>...</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>train/
+            <ul>
+              <li>exp/
+                <ul>
+                  <li>weights/
+                    <ul>
+                      <li>best.pt</li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>yolov7_training.pt</li>
+      <li>Training_YOLOv7_on_UI_Element_detection_Dataset.ipynb</li>
+      <li>README.md</li>
+    </ul>
+  </li>
+</ul>
 
 
 ## Google Drive Folder Link
