@@ -46,7 +46,6 @@ yolov7/
 └── README.md
 
 
-
 ## Google Drive Folder Link
 
 You can access the YOLOv7 folder containing the dataset, evaluation images, results, code, etc., [here](https://drive.google.com/drive/folders/10giALgHW5ut8JMJj2nFHS7x_dyiORZQQ?usp=sharing).
