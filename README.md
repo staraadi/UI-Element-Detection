@@ -25,8 +25,6 @@ After cloning this repository, follow these steps. Google Drive link is mentione
 
 ## Folder Structure
 
-After completing the setup, your repository's folder structure should look similar to this:
-
 yolov7/
 ├── UI-element-Detect-6/
 │   ├── ...
@@ -46,6 +44,7 @@ yolov7/
 ├── yolov7_training.pt
 ├── Training_YOLOv7_on_UI_Element_detection_Dataset.ipynb
 └── README.md
+
 
 
 ## Google Drive Folder Link
